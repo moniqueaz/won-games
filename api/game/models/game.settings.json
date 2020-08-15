@@ -40,11 +40,11 @@
       "type": "enumeration",
       "enum": [
         "FREE",
-        "pagi3",
-        "pagi7",
-        "pagi12",
-        "pagi16",
-        "pagi18"
+        "pegi3",
+        "pegi7",
+        "pegi12",
+        "pegi16",
+        "pegi18"
       ]
     },
     "cover": {
