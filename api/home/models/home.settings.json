@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "name": "home"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "bannerTop": {
+      "type": "component",
+      "repeatable": true,
+      "component": "home.banner",
+      "min": 1
+    }
+  }
+}
